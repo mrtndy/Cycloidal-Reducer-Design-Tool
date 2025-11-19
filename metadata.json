@@ -1,0 +1,5 @@
+{
+  "name": "CycloGen Pro",
+  "description": "An advanced, real-time parametric Cycloidal Drive calculator and visualizer. Features precise geometry generation, DXF export for manufacturing, and AI-powered design analysis using Gemini 2.5.",
+  "requestFramePermissions": []
+}
